@@ -20,13 +20,30 @@ Welcome to the Meinestadt.de Property Scraper! This actor extracts property list
 | Stat | Value |
 |------|-------|
 | **Version** | `0.0.1` |
-| **Last Update** | Nov 30, 2025 |
+| **Last Update** | Dec 1, 2025 |
 
 ---
 
 
 
 The Meinestadt.de Property Scraper crawls real estate listings from Germany's meinestadt.de. Use this to collect properties for sale or rent, enriched with address, floor, furnishing, company/agent, and certification details. Results are highly structured and suitable for property dashboards, data analysis, or market research.
+
+
+## 💻 Integration Examples
+
+This repository includes example code showing how to integrate the `property-meinestandt-de-scraper` actor into your projects.
+
+You can find example implementations in the [`examples/`](./examples) folder:
+- **TypeScript/JavaScript**: See [`examples/typescript/`](./examples/typescript) for a complete TypeScript example
+- **Python**: See [`examples/python/`](./examples/python) for a complete Python example
+
+Each example includes:
+- Ready-to-use code templates
+- Setup instructions
+- Documentation links
+
+---
+
 
 ## Use Cases
 
